@@ -35,3 +35,5 @@
 </div>
 
 ##
+
+<!-- ![snake gif](https://github.com/baakovi/baakovi/blob/output/github-contribution-grid-snake.svg) -->
