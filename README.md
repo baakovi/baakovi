@@ -18,7 +18,7 @@
       <img align="center" alt="Bianca-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
       <img align="center" alt="Bianca-ViteJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
       <img align="center" alt="Bianca-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-      <img align="center" alt="Bianca-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+      <!-- <img align="center" alt="Bianca-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> -->
       <img align="center" alt="Bianca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     </div>
     <br><br>
