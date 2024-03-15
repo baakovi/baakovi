@@ -12,9 +12,9 @@
       <img align="center" alt="Bianca-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
       <img align="center" alt="Bianca-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Bianca-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" alt="Bianca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="Bianca-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
       <img align="center" alt="Bianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Bianca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="Bianca-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
       <img align="center" alt="Bianca-ViteJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
       <img align="center" alt="Bianca-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
