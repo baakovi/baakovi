@@ -1,6 +1,6 @@
 
 ## Olá devs, meu nome é Bianca Moraes e sou uma desenvolvedor web.
-— 🔭 Estudante de *Ciência da Computação* e autônoma em **desenvolvimento de software**
+— 🔭 Estudante de *Ciência da Computação* e autodidata em **desenvolvimento de software**.
 
 <div style="display: flex; align-items: flex-start; align: center">
     <div style="display: inline_block"><br>  
