@@ -1,8 +1,14 @@
 
-## Olá devs, meu nome é Bianca Moraes e sou uma desenvolvedor web.
-— 🔭 Estudante de *Ciência da Computação* e autodidata em **desenvolvimento de software**.
+## Hello, word! Meu nome é Bianca Moraes e sou uma desenvolvedor web.
+🔭 Estudante de *Ciência da Computação* e autodidata em **desenvolvimento de software**.
+
+<br>
 
 <div style="display: flex; align-items: flex-start; align: center">
+    <div style="display: block; justify-content: center; align-items: center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baakovi&layout=compact&langs_count=6&theme=dark"/>
+    </div>
+    <br>
     <div style="display: inline_block"><br>  
       <img align="center" alt="Bianca-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
       <img align="center" alt="Bianca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,11 +28,11 @@
       <!-- <img align="center" alt="Bianca-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> -->
       <img align="center" alt="Bianca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     </div>
-    <br><br>
+    <br>
 </div>
 
+##
 <div> <br>
-  
   <a href="https://www.linkedin.com/in/biancamoraesv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/baakovi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:biancavmoraes@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -35,6 +41,6 @@
 
 </div>
 
-##
+<br>
 
 <!-- ![snake gif](https://github.com/baakovi/baakovi/blob/output/github-contribution-grid-snake.svg) -->
