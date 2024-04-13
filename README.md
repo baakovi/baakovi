@@ -8,7 +8,6 @@
     <!-- <div style="display: block; justify-content: center; align-items: center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baakovi&layout=compact&langs_count=6&theme=dark"/>
     </div> -->
-    <br>
     <div style="display: inline_block"><br>  
       <img align="center" alt="Bianca-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
       <img align="center" alt="Bianca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
