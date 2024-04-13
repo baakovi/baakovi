@@ -5,9 +5,9 @@
 <br>
 
 <div style="display: flex; align-items: flex-start; align: center">
-    <div style="display: block; justify-content: center; align-items: center">
+    <!-- <div style="display: block; justify-content: center; align-items: center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baakovi&layout=compact&langs_count=6&theme=dark"/>
-    </div>
+    </div> -->
     <br>
     <div style="display: inline_block"><br>  
       <img align="center" alt="Bianca-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -17,7 +17,7 @@
       <img align="center" alt="Bianca-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
       <img align="center" alt="Bianca-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
       <img align="center" alt="Bianca-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <!-- <img align="center" alt="Bianca-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+      <img align="center" alt="Bianca-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="Bianca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <!-- <img align="center" alt="Bianca-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"> -->
       <img align="center" alt="Bianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
