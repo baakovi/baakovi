@@ -1,8 +1,9 @@
 
 ## Hello, word! Meu nome é Bianca Moraes e sou uma desenvolvedor web.
-🔭 Estudante de *Ciência da Computação* e autodidata em **desenvolvimento de software**.
 
 <br>
+
+🔭 Estudante de *Ciência da Computação* e autodidata em **desenvolvimento de software**.
 
 <div style="display: flex; align-items: flex-start; align: center">
     <!-- <div style="display: block; justify-content: center; align-items: center">
