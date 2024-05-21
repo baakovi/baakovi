@@ -1,5 +1,5 @@
 
-## Hello, word! Meu nome é Bianca Moraes e sou uma desenvolvedor web.
+## Hello, word! Meu nome é Bianca Moraes e sou uma desenvolvedora web.
 
 <br>
 
