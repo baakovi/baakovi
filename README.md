@@ -36,6 +36,6 @@
 
 <div>
  <a href="https://www.linkedin.com/in/biancamoraesv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:biancavmoraes@outlook.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <img align="right" height="28" src="https://madewithlove.now.sh/br?heart=true&colorA=%23453960&colorB=%237c55d8&template=for-the-badge&text=Baakovi">
+ <a href="mailto:biancavmoraes@outlook.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/baakovi" target="_blank"><img align="right" height="28" src="https://madewithlove.now.sh/br?heart=true&colorA=%23453960&colorB=%237c55d8&template=for-the-badge&text=Baakovi"></a>
 </div>
