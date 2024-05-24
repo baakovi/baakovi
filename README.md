@@ -3,7 +3,7 @@
 🧑🏽‍💻 &nbsp; Student of Computer Science at Anhanguera University
 <br/>🍀 &nbsp; Self-taught in Software Development as a **Full-stack Developer**
 <br />💻 &nbsp; Working as a *Systems Development Intern* on eCliente Tecnologia
-<br/>🚀 &nbsp; Currently studing on @ <b>Curso em Vídeo</b> &nbsp; & &nbsp; <b>Rocketseat</b>
+<br/>🚀 &nbsp; Currently studing on @ <b>Curso em Vídeo</b> &nbsp; & &nbsp; <b>Microsoft Learn</b>
 
 <br>
 
