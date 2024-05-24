@@ -1,4 +1,4 @@
-<h1>Hello, world 🌎<br/>Welcome to my GitHub profile</h1><br/>
+<h1>Hello, world &nbsp; 🌎<br/>Welcome to my GitHub profile</h1><br/>
 
 🧑🏽‍💻 &nbsp; Student of Computer Science at Anhanguera University
 <br/>🍀 &nbsp; Self-taught in Software Development as a **Full-stack Developer**
