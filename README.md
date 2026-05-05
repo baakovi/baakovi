@@ -2,14 +2,15 @@
 
 🧑🏽‍💻 &nbsp; Student of Computer Science at Anhanguera University
 <br/>🍀 &nbsp; Self-taught in Software Development as a **Full-stack Developer**
-<br />💻 &nbsp; Working as a *Junior Software Developer* on eCliente Tecnologia
-<br/>🍵 &nbsp; Currently studing on @ <b>Curso em Vídeo</b> &nbsp; & &nbsp; <b>Microsoft Learn</b> &nbsp; & &nbsp; <b>Udemy</b>
+<br />💻 &nbsp; I've worked as a *Junior Software Developer* at eCliente Tecnologia
+<br />🏛️ &nbsp; Currently a civil servant working as an **IT Monitor** at City Hall
+<br/>🍵 &nbsp; Currently studying at @ <b>Curso em Vídeo</b> &nbsp; & &nbsp; <b>Microsoft Learn</b> &nbsp; & &nbsp; <b>Udemy</b>
 
 <br>
 
 <div>
  <img align="right" alt="code" height="220em" width="220em" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtoazFhcDNmNWg4dmtlMXY3aHBhZnZwbnVrOGR3bm9zbnZtMWo0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pEuD18F5xjR9SNVmYz/giphy.gif">
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baakovi&layout=compact&langs_count=7&theme=dark"/>
+ <img align="center" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baakovi&theme=dark"/>
 </div>
 
 <br>
